@@ -1,0 +1,6 @@
+server
+.gitignore
+.git
+.vscode
+*__pychache__
+notebook
